@@ -2,8 +2,8 @@
 
 This "Game" will create a board similar to checkers and chess. 
 Each square will contain a pattern, the game will scan the board 
-and find and return the number of squares that contain the same 
-adjacent pattern.
+and find and return the greatest number of squares that contain 
+the same adjacent pattern.
 
 # Running
 The main class is dev.mdbcode.patterngame.PatternGame.
